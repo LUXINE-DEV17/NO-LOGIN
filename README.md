@@ -18,7 +18,7 @@ $ git clone https://github.com/LUXINE-DEV17/NO-LOGIN
 
 $ cd NO-LOGIN
 
-$ python run_x.py
+$ python no_login.py
 
 ```
 
